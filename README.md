@@ -1,5 +1,5 @@
- Olá, eu sou Henrique Oliveira! 👋  
-💻 Desenvolvedor Backend | .NET | Microservices  
+ Olá, eu sou Henrique Oliveira e sou do Brasil, Rio grande do sul! 👋  
+💻 Desenvolvedor Backend | .NET | Microserviços | Sql server  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-oliveira-812136181/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Hforna/)
@@ -25,7 +25,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40" />
     <!-- Git -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>Add commentMore actions
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>
 </div>
 
 ## 🚀 Projetos atuais
